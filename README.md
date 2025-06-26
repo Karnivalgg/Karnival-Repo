@@ -1,2 +1,4 @@
-# Karnival-Repo
+# Koptimizar
 Stuff of a dev intent
+Optimizer for FiveM
+Dont work
